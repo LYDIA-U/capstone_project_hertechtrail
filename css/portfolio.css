@@ -1,0 +1,33 @@
+/* h1 {
+    margin: 3rem;
+    padding: 3rem;
+     
+    ;
+    text-align: center;
+    justify-content: center;
+    background-color: white; */
+    /* height: auto;
+    width: auto;
+    background-color: white; */
+/* }
+nav{
+    background-color: white;
+}  */
+h1{
+    margin: 6rem;
+    padding: 3rem;
+    justify-content: center;
+    color:green;
+}
+nav {
+    color: green;
+}
+
+footer {
+    margin-top: 1em;
+    padding: 1em;
+}
+
+
+    
+    

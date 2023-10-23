@@ -1,0 +1,15 @@
+ .container xxl py-5 {
+background-color: green;
+ }
+ p {
+    text-align: left;
+ }
+ h1 {
+   color: white;
+ }
+ h2 {
+    text-align: left;
+ }
+nav {
+    background-color: green;
+}

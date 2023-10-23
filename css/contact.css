@@ -1,0 +1,16 @@
+nav {
+    background-color: green;
+}
+
+h1{
+    margin: 3rem;
+    padding: 3rem;
+    justify-content: center;
+    color:green;
+}
+
+form {
+    border: green solid ;
+    
+
+}
